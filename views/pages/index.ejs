@@ -9,33 +9,38 @@
 		<title>Home</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="/public/css/noscript.css" /></noscript>
+		<link rel="stylesheet" href="./css/main.css" />
+		<noscript><link rel="stylesheet" href="./css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
 		<!-- Wrapper-->
 			<div id="wrapper">
+
+
 				<!-- Nav -->
 					<%- include('../partials/nav.ejs'); %>
 				<!-- Main -->
 					<div id="main">
             <!-- header -->
 						<%- include('../partials/header.ejs'); %>
+						
+						
+						
 						<!-- gallery -->
-						<%- include('../partials/gallery.ejs'); %>
+						<%- include('gallery.ejs'); %>
 						<!-- subscibe -->
-						<%- include('../partials/subscribe.ejs'); %>	
+						<%- include('subscribe.ejs'); %>	
 
 					</div>
         <!-- Footer -->
         <%- include('../partials/footer.ejs'); %>
 			</div>
 		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
-			<script src="assets/js/client.js" type="module"></script>
+			<script src="./js/jquery.min.js"></script>
+			<script src="./js/browser.min.js"></script>
+			<script src="./js/breakpoints.min.js"></script>
+			<script src="./js/util.js"></script>
+			<script src="./js/main.js"></script>
+			<script src="./js/client.js" type="module"></script>
 	</body>
 </html>

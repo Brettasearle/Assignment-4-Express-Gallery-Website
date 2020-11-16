@@ -1,7 +1,7 @@
  export const ski = [
   {
     id:      1,
-    title:  'Puppy',
+    title:  'Snowborder',
     credit: 'unsplash.com',
     url:    'https://unsplash.com/s/photos/ski',
     imgPath: function() {
@@ -10,7 +10,7 @@
   },
   {
     id:     2,
-    title:  'Bear',
+    title:  'Big jumps',
     credit: 'unsplash.com',
     url:    'https://unsplash.com/s/photos/ski',
     imgPath: function() {
@@ -19,7 +19,7 @@
   },
   {
     id:     3,
-    title:  'Moose',
+    title:  'Carve',
     credit: 'unsplash.com',
     url:    'https://unsplash.com/s/photos/ski',
     imgPath: function() {
@@ -28,7 +28,7 @@
   },
   {
     id:     4,
-    title:  'Coyote',
+    title:  'dont fall',
     credit: 'unsplash.com',
     url:    'https://unsplash.com/s/photos/ski',
     imgPath: function() {
@@ -37,7 +37,7 @@
   },
   {
     id:     5,
-    title:  'Tiger',
+    title:  'powder time',
     credit: 'unsplash.com',
     url:    'https://unsplash.com/s/photos/ski',
     imgPath: function() {
@@ -46,7 +46,7 @@
   },
   {
     id:     6,
-    title:  'Husky',
+    title:  'almost done',
     credit: 'unsplash.com',
     url:    'https://unsplash.com/s/photos/ski',
     imgPath: function() {
@@ -55,7 +55,7 @@
   },
   {
     id:     7,
-    title:  'Wolf',
+    title:  'friends for life',
     credit: 'unsplash.com',
     url:    'https://unsplash.com/s/photos/ski',
     imgPath: function() {
@@ -64,7 +64,7 @@
   },
   {
     id:     8,
-    title:  'Monkey',
+    title:  'white on white',
     credit: 'unsplash.com',
     url:    'https://unsplash.com/s/photos/ski',
     imgPath: function() {
@@ -73,7 +73,7 @@
   },
   {
     id:     9,
-    title:  'Elk',
+    title:  'views',
     credit: 'unsplash.com',
     url:    'https://unsplash.com/s/photos/ski',
     imgPath: function() {
@@ -82,7 +82,7 @@
   },
   {
     id:     10,
-    title:  '',
+    title:  'angles',
     credit: 'unsplash.com',
     url:    'https://unsplash.com/s/photos/ski',
     imgPath: function() {
@@ -91,7 +91,7 @@
   },
   {
     id:     11,
-    title:  'Bird',
+    title:  'lift pro',
     credit: 'unsplash.com',
     url:    'https://unsplash.com/s/photos/ski',
     imgPath: function() {
@@ -100,7 +100,7 @@
   },
   {
     id:     12,
-    title:  'Pug',
+    title:  'Spinning ',
     credit: 'unsplash.com',
     url:    'https://unsplash.com/s/photos/ski',
     imgPath: function() {
