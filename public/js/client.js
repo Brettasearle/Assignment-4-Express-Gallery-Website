@@ -1,6 +1,6 @@
 
 
-fetch('http://localhost:8080/api/v0/gallery')
+fetch(`${window.location.origin}/api/v0/gallery`)
 .then(function(response){
   return response.json()
 })
