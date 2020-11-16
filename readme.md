@@ -6,7 +6,7 @@ Brett Searle
 
 GH repo https://github.com/Brettasearle/Assignment-4-Express-Gallery-Website
 
-heroku https://assignment-4-express-gallery.herokuapp.com/#
+heroku https://assignment-4-express-gallery.herokuapp.com/#work
 
 attributions: Josh helped me with rebuilding everything that was lost.
 
