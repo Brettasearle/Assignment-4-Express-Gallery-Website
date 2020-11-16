@@ -6,6 +6,6 @@ Brett Searle
 
 GH repo https://github.com/Brettasearle/Assignment-4-Express-Gallery-Website
 
-heroku
+heroku https://assignment-4-express-gallery.herokuapp.com/#
 
 attributions
